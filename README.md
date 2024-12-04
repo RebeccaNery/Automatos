@@ -1,2 +1,2 @@
 # Computabilidade
- Exercícios referentes à disciplina de Computabilidade e Complexidade de Algoritmos, 2024.2
+ Exercícios realizados durante a disciplina de Computabilidade e Complexidade de Algoritmos, 2024.2
